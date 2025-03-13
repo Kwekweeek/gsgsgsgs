@@ -16,7 +16,7 @@ body {
   margin: 0 auto;
 }
 
-/* || typography */
+/* || typography */ 
 
 h1, h2, h3 {
   font-family: 'Cinzel Decorative', cursive;
@@ -46,6 +46,7 @@ h3 {
 p, li {
   font-size: 1.6rem;
   line-height: 1.5;
+  font-weight: 600;
 }
 
 /* || header layout */
@@ -114,7 +115,7 @@ main {
 }
 
 article, section {
-  flex: 4;
+  flex: 3;
 }
 
 aside {
